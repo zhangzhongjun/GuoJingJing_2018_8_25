@@ -1,6 +1,6 @@
 # 任务
 
-![1](D:\ruiyun\人人\郭晶晶\2018.8.25第三次实验\imgs\1.png)
+![1](/imgs/1.png)
 
 # 使用
 
@@ -14,3 +14,9 @@ mvn exec:java -Dexec.mainClass="com.zhong.Experi2"
 mvn exec:java -D"exec.mainClass"="com.zhong.Experi1"
 mvn exec:java -D"exec.mainClass"="com.zhong.Experi2"
 ```
+
+# 结果截图
+
+![结果1](/imgs/结果1.PNG)
+
+![结果2](/imgs/结果2.PNG)
